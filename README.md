@@ -12,10 +12,11 @@ Hugely helpful repo of pretty much everything payload
 # Reverse Shells
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
-# Upgrading a Shell
-
-python3 -c 'import pty; pty.spawn("/bin/bash")'
+# Upgrading a Shell to tty (including ctrl+c and tab complete)
 ```bash
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
+```
 then ctrl + z
 stty -a <--- take note of rows and columns
 stty raw -echo; fg
