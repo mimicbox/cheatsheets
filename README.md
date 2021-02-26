@@ -1,4 +1,4 @@
-# cheatsheets
+# cheatsheets TODO: Organize this thing
 
 All of my cheatsheets for pentest/ctf
 
@@ -40,4 +40,7 @@ https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 ## REGEX (Because who remembers regex)
 https://cheatography.com/davechild/cheat-sheets/regular-expressions/
 https://pythex.org <--- great tool to test REGEX for python
+
+## Python
+https://www.pythoncheatsheet.org/
 
