@@ -29,5 +29,8 @@ https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
 ## GTFOBINS(exploiting UNIX binaries)
 https://gtfobins.github.io/
 
+## OWASP Cheatsheet series
+https://github.com/OWASP/CheatSheetSeries
+
 
 
