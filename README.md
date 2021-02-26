@@ -17,7 +17,7 @@ https://highon.coffee/blog/reverse-shell-cheat-sheet/
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 ```
-then ctrl + z
+ctrl + z
 stty -a <--- take note of rows and columns
 stty raw -echo; fg
 stty rows <x> columns <y>
