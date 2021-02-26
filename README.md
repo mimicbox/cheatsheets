@@ -22,3 +22,9 @@ stty -a <--- take note of rows and columns
 stty raw -echo; fg
 stty rows <x> columns <y>
 ```
+
+
+# Sessions Hijacking
+https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
+
+
