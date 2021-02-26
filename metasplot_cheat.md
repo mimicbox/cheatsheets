@@ -1,12 +1,4 @@
-#### Metasploit Cheat Sheet
 
-<p align="center">
-<img src="/image/rapid7.png" height="100px" width="100px"><img src="/image/metasploit.png" height="100px" width="100px"><img src="/image/rapid7.png" height="100px" width="100px">
-</p>
-
-The Metasploit Project is a computer security project that provides information on vulnerabilities, helping in the development of penetration tests and IDS signatures.
-
-Metasploit is a popular tool used by pentest experts. I have prepared a document for you to learn.
 
 #### Metasploit :
 
