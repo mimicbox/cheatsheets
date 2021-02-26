@@ -24,7 +24,7 @@ stty rows <x> columns <y>
 ```
 
 
-# Sessions Hijacking
+# Session Hijacking
 https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
 
 
