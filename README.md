@@ -22,6 +22,8 @@ stty -a <--- take note of rows and columns
 stty raw -echo; fg
 stty rows <x> columns <y>
 ```
+Further info:
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 ## Session Hijacking
 https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
