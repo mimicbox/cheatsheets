@@ -27,4 +27,8 @@ stty rows <x> columns <y>
 # Session Hijacking
 https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
 
+# GTFOBINS(exploiting UNIX binaries)
+https://gtfobins.github.io/
+
+
 
