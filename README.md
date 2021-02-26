@@ -15,9 +15,9 @@ https://highon.coffee/blog/reverse-shell-cheat-sheet/
 # Upgrading a Shell
 
 python3 -c 'import pty; pty.spawn("/bin/bash")'
-
+```bash
 then ctrl + z
 stty -a <--- take note of rows and columns
 stty raw -echo; fg
 stty rows <x> columns <y>
-  
+```
