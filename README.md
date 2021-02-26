@@ -20,3 +20,4 @@ then ctrl + z
 stty -a <--- take note of rows and columns
 stty raw -echo; fg
 stty rows <x> columns <y>
+  
