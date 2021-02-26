@@ -5,14 +5,14 @@ All of my cheatsheets for pentest/ctf
 Sourced from around the web, or compiled by myself
 
 
-# Payloads
+## Payloads
 https://github.com/swisskyrepo/PayloadsAllTheThings
 Hugely helpful repo of pretty much everything payload
 
-# Reverse Shells
+## Reverse Shells
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
-# Upgrading a Shell to tty (including ctrl+c and tab complete)
+## Upgrading a Shell to tty (including ctrl+c and tab complete)
 ```bash
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
@@ -23,11 +23,10 @@ stty raw -echo; fg
 stty rows <x> columns <y>
 ```
 
-
-# Session Hijacking
+## Session Hijacking
 https://resources.infosecinstitute.com/topic/session-hijacking-cheat-sheet/
 
-# GTFOBINS(exploiting UNIX binaries)
+## GTFOBINS(exploiting UNIX binaries)
 https://gtfobins.github.io/
 
 
