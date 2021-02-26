@@ -45,3 +45,5 @@ https://pythex.org <--- great tool to test REGEX for python
 ## Python
 https://www.pythoncheatsheet.org/
 
+## CTF Resources (Including links to CTFs themselves)
+https://github.com/apsdehal/awesome-ctf
