@@ -53,3 +53,7 @@ https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
 ## Windows Priv Escalation
 https://infosecwriteups.com/privilege-escalation-in-windows-380bee3a2842
+
+## HTTP Headers
+https://kapeli.com/cheat_sheets/HTTP_Header_Fields.docset/Contents/Resources/Documents/index
+
