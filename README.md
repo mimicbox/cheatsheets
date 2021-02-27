@@ -63,4 +63,7 @@ https://osintframework.com/
 ## DNS Enumeration (Helpful for subdomains)
 https://medium.com/@klockw3rk/back-to-basics-dns-enumeration-446017957aa3
 
+## Google Dorking
+https://www.sans.org/security-resources/GoogleCheatSheet.pdf
+
 
