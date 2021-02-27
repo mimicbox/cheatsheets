@@ -47,3 +47,9 @@ https://www.pythoncheatsheet.org/
 
 ## CTF Resources (Including links to CTFs themselves)
 https://github.com/apsdehal/awesome-ctf
+
+## Linux Priv Escalation
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+## Windows Priv Escalation
+https://infosecwriteups.com/privilege-escalation-in-windows-380bee3a2842
