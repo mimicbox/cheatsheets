@@ -60,4 +60,7 @@ https://kapeli.com/cheat_sheets/HTTP_Header_Fields.docset/Contents/Resources/Doc
 ## OSINT Framework
 https://osintframework.com/
 
+## DNS Enumeration
+https://medium.com/@klockw3rk/back-to-basics-dns-enumeration-446017957aa3
+
 
