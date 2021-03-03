@@ -66,4 +66,7 @@ https://medium.com/@klockw3rk/back-to-basics-dns-enumeration-446017957aa3
 ## Google Dorking
 https://www.sans.org/security-resources/GoogleCheatSheet.pdf
 
+## More powershell commands
+https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters/powerview
+
 
