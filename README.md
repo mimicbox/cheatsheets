@@ -69,4 +69,9 @@ https://www.sans.org/security-resources/GoogleCheatSheet.pdf
 ## More powershell commands
 https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters/powerview
 
+## INFOSEC Infographics
+https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef#18dd
+
+
+
 
