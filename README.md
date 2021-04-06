@@ -72,6 +72,8 @@ https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters/powerview
 ## INFOSEC Infographics
 https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef#18dd
 
+## THC Cheat Sheet (Hacking Tricks and Tips)
+https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
 
 
 
